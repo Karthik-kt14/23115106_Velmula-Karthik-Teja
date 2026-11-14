@@ -1,0 +1,1 @@
+torch>=2.1\ntorchvision>=0.16\nnumpy>=1.24\nPillow>=10\nscikit-learn>=1.3\nmatplotlib>=3.7\npandas>=2\ntqdm>=4.66\n

@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "image_size": 256,
+  "batch_size": 8,
+  "epochs": 20,
+  "learning_rate": 0.001,
+  "early_stopping_patience": 5,
+  "augmentation": "horizontal_flip",
+  "boundary_label": 255
+}
